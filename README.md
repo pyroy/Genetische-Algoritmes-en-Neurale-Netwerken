@@ -1,2 +1,2 @@
-# Genetsiche-Algoritmes-en-Neurale-Netwerken
+# Genetische-Algoritmes-en-Neurale-Netwerken
 Alle programma's uit mijn PWS.
